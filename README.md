@@ -2,20 +2,20 @@
 This repository is for taking points of my study notes of Algorithms. I saw a lot of Algorithms and see in time you forget
 some of them. 
 
-#[Arrays](Arrays/Arrays.md)  
+# [Arrays](Arrays/Arrays.md)  
 [Quick Select](Arrays/QuickSelect.md)  
 Binary Search
-#Linked Lists
+# Linked Lists
 Check if there is a Cicle (Tortoise)
-#Graphs
+# Graphs
 Topological Sort (Directional Graph)
-#Math
+# Math
 Prime numbers
-#BackTracking
+# BackTracking
 Understanding Backtracking
-#Recursion
+# Recursion
 reserved
-#Trees
+# Trees
 DFS  
 BFS
 

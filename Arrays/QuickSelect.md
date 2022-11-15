@@ -1,4 +1,4 @@
-#QuickSelect
+# QuickSelect
 This Algorith works for getting the smallest Element
 in a list that is not sorted. This is similar of the **QuickSort
 Algorithm** 
@@ -8,7 +8,7 @@ Best if that Pointer is select by a Random Value then
 iterate from  `left pointer to right pointer-1 ` then
 move the Pointer to the correct pivot value. The Pivot Value
 will start with 0 and move on when match the condition.
-#Code 
+# Code 
 
 ```java
   public class QuickSelect{
@@ -58,7 +58,7 @@ will start with 0 and move on when match the condition.
 }
 ```
 
-#Example Step by Step
+# Example Step by Step
 Get Smallest element of position 1
 
 ```
