@@ -2,8 +2,8 @@
 This repository is for taking points of my study notes of Algorithms. I saw a lot of Algorithms and see in time you forget
 some of them. 
 
-#Arrays  
-Quick Select
+#[Arrays](Arrays/Arrays.md)  
+[Quick Select](Arrays/QuickSelect.md)  
 Binary Search
 #Linked Lists
 Check if there is a Cicle (Tortoise)
@@ -16,6 +16,6 @@ Understanding Backtracking
 #Recursion
 reserved
 #Trees
-DFS
+DFS  
 BFS
 
