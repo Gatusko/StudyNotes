@@ -7,7 +7,7 @@ For this Algorithm we need to select a Pointer.
 Best if that Pointer is select by a Random Value then 
 iterate from  `left pointer to right pointer-1 ` then
 move the Pointer to the correct pivot value. The Pivot Value
-will start with 0 and move on when match the condition.
+will start with 0 and move on when match the condition of currentNumOfArray is less than our Pointer
 # Code 
 
 ```java
