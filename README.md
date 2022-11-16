@@ -18,4 +18,6 @@ reserved
 # Trees
 DFS  
 BFS
-
+# [Dinamic Programming](DynamicProgramming/DynamicPramming.md)
+[Tabulation](DynamicProgramming/Tabulation.md)  
+Memoization
