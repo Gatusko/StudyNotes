@@ -21,3 +21,8 @@ BFS
 # [Dinamic Programming](DynamicProgramming/DynamicPramming.md)
 [Tabulation](DynamicProgramming/Tabulation.md)  
 Memoization
+# Divide and Conquer
+Divide and Conquer
+# [Priority Queue](PriorityQueue/PriorityQueue.md) 
+[MinHeap](PriorityQueue/MinHeap.md)  
+MaxHeap
