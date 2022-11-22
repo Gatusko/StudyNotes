@@ -5,6 +5,7 @@ the less Integer. So in Theory it will be the less value for every poll.
 
 ![](MinHeap.png)
 
+# Example
 In Java less go step by step. 
 
 As we are using Integer by Default it will try to compare and 
@@ -39,7 +40,7 @@ Final OutPut
 1
 ```
 
-# Example 
+# Example on Problem 
 Merge N Lnked Lists that are sorted as ascending form. 
 [Leet Code Problem  ](https://leetcode.com/problems/merge-k-sorted-lists/submissions/)
  

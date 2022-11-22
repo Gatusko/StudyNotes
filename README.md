@@ -25,4 +25,9 @@ Memoization
 Divide and Conquer
 # [Priority Queue](PriorityQueue/PriorityQueue.md) 
 [MinHeap](PriorityQueue/MinHeap.md)  
-MaxHeap
+[MaxHeap](PriorityQueue/MaxHeap.md)
+# Strings  
+Check if a String A is a subString of String B. (It doesn't
+matter the order of characters of String A)  
+Check if a String A is a subString of String B. (It does matter 
+the odder of characters of String B)

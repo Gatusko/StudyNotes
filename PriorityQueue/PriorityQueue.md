@@ -1,12 +1,12 @@
 # Priority Queue
 This Abstract Data Structure is like any stack or queue. But the main
-difference it is expecting a Comparator in Java. With this will know
-what will be the next element for polling the data. This data structure
+difference it is expecting a Comparator in Java. **With this will know
+what will be the next element for polling the data based in our comparator**. This data structure
 is good for merge different List and others. and it works for this 
 good data strucutres :
 
 1. [MinHeap](MinHeap.md)
-2. MaxHeap
+2. [MaxHeap](MaxHeap.md)
 
 In Java for Creating a Priority Queue is very easy.
 `PriorityQueue<Integer> myPriorityQueue=new PriorityQueue<>();`
