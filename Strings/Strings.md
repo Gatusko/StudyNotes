@@ -9,7 +9,7 @@ will create a new String. So adding a new value to our String will
 be O(n) Time. 
 
 # Techinques of Strings 
-Check if a String A is a subString of String B. (It doesn't
+[Check if a String A is a subString of String B.](StringSubStringAnyOrder.md) (It doesn't
 matter the order of characters of String A)   
 Check if a String A is a subString of String B. (It does matter
 the odder of characters of String B)

@@ -26,8 +26,8 @@ Divide and Conquer
 # [Priority Queue](PriorityQueue/PriorityQueue.md) 
 [MinHeap](PriorityQueue/MinHeap.md)  
 [MaxHeap](PriorityQueue/MaxHeap.md)
-# Strings  
-Check if a String A is a subString of String B. (It doesn't
+# [Strings](Strings/Strings.md)  
+[Check if a String A is a subString of String B](Strings/StringSubStringAnyOrder.md). (It doesn't
 matter the order of characters of String A)  
 Check if a String A is a subString of String B. (It does matter 
 the odder of characters of String B)
